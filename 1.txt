@@ -1,0 +1,1 @@
+ "18.6 Commit best practices" https://r-pkgs.org/git.html
